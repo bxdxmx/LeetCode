@@ -161,21 +161,47 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "206. Reverse Linked List", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "350. Intersection of Two Arrays II", "350. Intersection of Two Arrays II\350. Intersection of Two Arrays II.csproj", "{9ADCEC38-83B7-4366-803C-0DDF88B24CDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "121. Best Time to Buy and Sell Stock", "121. Best Time to Buy and Sell Stock\121. Best Time to Buy and Sell Stock.csproj", "{155E36BA-D999-42BD-BF4B-607010C6899E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "121. Best Time to Buy and Sell Stock", "121. Best Time to Buy and Sell Stock\121. Best Time to Buy and Sell Stock.csproj", "{155E36BA-D999-42BD-BF4B-607010C6899E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "167. Two Sum II - Input Array Is Sorted", "167. Two Sum II - Input Array Is Sorted\167. Two Sum II - Input Array Is Sorted.csproj", "{80A343F7-27A1-482F-BB37-CAE444B038A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "167. Two Sum II - Input Array Is Sorted", "167. Two Sum II - Input Array Is Sorted\167. Two Sum II - Input Array Is Sorted.csproj", "{80A343F7-27A1-482F-BB37-CAE444B038A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "976. Largest Perimeter Triangle", "976. Largest Perimeter Triangle\976. Largest Perimeter Triangle.csproj", "{F25AE50B-6E5E-4B7E-87ED-ECDD51760E14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "976. Largest Perimeter Triangle", "976. Largest Perimeter Triangle\976. Largest Perimeter Triangle.csproj", "{F25AE50B-6E5E-4B7E-87ED-ECDD51760E14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1779. Find Nearest Point That Has the Same X or Y Coordinate", "1779. Find Nearest Point That Has the Same X or Y Coordinate\1779. Find Nearest Point That Has the Same X or Y Coordinate.csproj", "{F9ED9D19-71BF-4467-9C0C-42B541D5B39B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1779. Find Nearest Point That Has the Same X or Y Coordinate", "1779. Find Nearest Point That Has the Same X or Y Coordinate\1779. Find Nearest Point That Has the Same X or Y Coordinate.csproj", "{F9ED9D19-71BF-4467-9C0C-42B541D5B39B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "367. Valid Perfect Square", "367. Valid Perfect Square\367. Valid Perfect Square.csproj", "{A3FAAD7F-E3F7-47DE-9323-0EFE3EACC2FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "367. Valid Perfect Square", "367. Valid Perfect Square\367. Valid Perfect Square.csproj", "{A3FAAD7F-E3F7-47DE-9323-0EFE3EACC2FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1385. Find the Distance Value Between Two Arrays", "1385. Find the Distance Value Between Two Arrays\1385. Find the Distance Value Between Two Arrays.csproj", "{E039E791-7086-4786-8422-1752CE47017C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1385. Find the Distance Value Between Two Arrays", "1385. Find the Distance Value Between Two Arrays\1385. Find the Distance Value Between Two Arrays.csproj", "{E039E791-7086-4786-8422-1752CE47017C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "55. Jump Game", "55. Jump Game\55. Jump Game.csproj", "{EDC3FD19-FEA4-4961-AAC6-A2365CDA7A90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "55. Jump Game", "55. Jump Game\55. Jump Game.csproj", "{EDC3FD19-FEA4-4961-AAC6-A2365CDA7A90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45. Jump Game II", "45. Jump Game II\45. Jump Game II.csproj", "{03EBD52F-412B-4620-8096-9F4F42CC71E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "45. Jump Game II", "45. Jump Game II\45. Jump Game II.csproj", "{03EBD52F-412B-4620-8096-9F4F42CC71E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1143. Longest Common Subsequence", "1143. Longest Common Subsequence\1143. Longest Common Subsequence.csproj", "{8BDB33DA-F5F6-4DE0-89CD-D674CB1AD2B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "142. Linked List Cycle II", "142. Linked List Cycle II\142. Linked List Cycle II.csproj", "{F3B9FD83-ECBC-4F37-8C10-4B5220209BBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "566. Reshape the Matrix", "566. Reshape the Matrix\566. Reshape the Matrix.csproj", "{B84A71C9-C5A4-4504-82F0-DEC228BB0108}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "118. Pascal's Triangle", "118. Pascal's Triangle\118. Pascal's Triangle.csproj", "{1C3C0379-A1D0-47D0-8EFB-6891A081CE6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "344. Reverse String", "344. Reverse String\344. Reverse String.csproj", "{D09A4152-E6CA-465C-B2A4-025EFC1D2CA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "557. Reverse Words in a String III", "557. Reverse Words in a String III\557. Reverse Words in a String III.csproj", "{EBF9115D-8B5E-4C16-8CA4-8482F1F70D16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "69. Sqrt(x)", "69. Sqrt(x)\69. Sqrt(x).csproj", "{ACB40BF2-500C-440D-B582-FC72E925580F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "744. Find Smallest Letter Greater Than Target", "744. Find Smallest Letter Greater Than Target\744. Find Smallest Letter Greater Than Target.csproj", "{64932087-15A1-4BF5-8362-740919EFABA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1822. Sign of the Product of an Array", "1822. Sign of the Product of an Array\1822. Sign of the Product of an Array.csproj", "{6E0CA34D-CC26-4BF3-BDFE-BBB41688FD7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1502. Can Make Arithmetic Progression From Sequence", "1502. Can Make Arithmetic Progression From Sequence\1502. Can Make Arithmetic Progression From Sequence.csproj", "{091A4098-BFCD-4476-AAE4-5682E0690096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "202. Happy Number", "202. Happy Number\202. Happy Number.csproj", "{F0852AF7-62CC-428E-ABAD-8940EA7C98DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1790. Check if One String Swap Can Make Strings Equal", "1790. Check if One String Swap Can Make Strings Equal\1790. Check if One String Swap Can Make Strings Equal.csproj", "{2BDA7C16-2E91-42FD-8965-58F10B693613}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "918. Maximum Sum Circular Subarray", "918. Maximum Sum Circular Subarray\918. Maximum Sum Circular Subarray.csproj", "{69D02812-8BBE-4744-A0FA-ED04B4D6CC0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -531,6 +557,58 @@ Global
 		{03EBD52F-412B-4620-8096-9F4F42CC71E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03EBD52F-412B-4620-8096-9F4F42CC71E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03EBD52F-412B-4620-8096-9F4F42CC71E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BDB33DA-F5F6-4DE0-89CD-D674CB1AD2B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BDB33DA-F5F6-4DE0-89CD-D674CB1AD2B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BDB33DA-F5F6-4DE0-89CD-D674CB1AD2B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BDB33DA-F5F6-4DE0-89CD-D674CB1AD2B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B9FD83-ECBC-4F37-8C10-4B5220209BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B9FD83-ECBC-4F37-8C10-4B5220209BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B9FD83-ECBC-4F37-8C10-4B5220209BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B9FD83-ECBC-4F37-8C10-4B5220209BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B84A71C9-C5A4-4504-82F0-DEC228BB0108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84A71C9-C5A4-4504-82F0-DEC228BB0108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84A71C9-C5A4-4504-82F0-DEC228BB0108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84A71C9-C5A4-4504-82F0-DEC228BB0108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C3C0379-A1D0-47D0-8EFB-6891A081CE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3C0379-A1D0-47D0-8EFB-6891A081CE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3C0379-A1D0-47D0-8EFB-6891A081CE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3C0379-A1D0-47D0-8EFB-6891A081CE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D09A4152-E6CA-465C-B2A4-025EFC1D2CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D09A4152-E6CA-465C-B2A4-025EFC1D2CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D09A4152-E6CA-465C-B2A4-025EFC1D2CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D09A4152-E6CA-465C-B2A4-025EFC1D2CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF9115D-8B5E-4C16-8CA4-8482F1F70D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF9115D-8B5E-4C16-8CA4-8482F1F70D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF9115D-8B5E-4C16-8CA4-8482F1F70D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF9115D-8B5E-4C16-8CA4-8482F1F70D16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACB40BF2-500C-440D-B582-FC72E925580F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB40BF2-500C-440D-B582-FC72E925580F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB40BF2-500C-440D-B582-FC72E925580F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB40BF2-500C-440D-B582-FC72E925580F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64932087-15A1-4BF5-8362-740919EFABA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64932087-15A1-4BF5-8362-740919EFABA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64932087-15A1-4BF5-8362-740919EFABA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64932087-15A1-4BF5-8362-740919EFABA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E0CA34D-CC26-4BF3-BDFE-BBB41688FD7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E0CA34D-CC26-4BF3-BDFE-BBB41688FD7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E0CA34D-CC26-4BF3-BDFE-BBB41688FD7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E0CA34D-CC26-4BF3-BDFE-BBB41688FD7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{091A4098-BFCD-4476-AAE4-5682E0690096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{091A4098-BFCD-4476-AAE4-5682E0690096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{091A4098-BFCD-4476-AAE4-5682E0690096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{091A4098-BFCD-4476-AAE4-5682E0690096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0852AF7-62CC-428E-ABAD-8940EA7C98DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0852AF7-62CC-428E-ABAD-8940EA7C98DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0852AF7-62CC-428E-ABAD-8940EA7C98DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0852AF7-62CC-428E-ABAD-8940EA7C98DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BDA7C16-2E91-42FD-8965-58F10B693613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDA7C16-2E91-42FD-8965-58F10B693613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDA7C16-2E91-42FD-8965-58F10B693613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDA7C16-2E91-42FD-8965-58F10B693613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69D02812-8BBE-4744-A0FA-ED04B4D6CC0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D02812-8BBE-4744-A0FA-ED04B4D6CC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D02812-8BBE-4744-A0FA-ED04B4D6CC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D02812-8BBE-4744-A0FA-ED04B4D6CC0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
