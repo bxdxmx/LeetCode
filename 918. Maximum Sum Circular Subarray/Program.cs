@@ -1,5 +1,16 @@
 ﻿public class Solution
 {
+    // 解説
+    // https://leetcode.com/problems/maximum-sum-circular-subarray/solutions/2868539/maximum-sum-circular-subarray/?orderBy=hot
+
+    // approach1
+    // 通常のkadaneで求めた通常配列の最大部分和と、
+    // 先頭からの合計と、それ以外の右側の中での最大部分和を足したものの大きい方を返す。
+
+    // approach2
+    // 下のコード
+    // 普通のkadaneと一番負の値が大きくなる最小部分和を合計から引けば最大部分和になるでしょうという話
+
     public int MaxSubarraySumCircular(int[] nums)
     {
         if (nums.Length == 1)
