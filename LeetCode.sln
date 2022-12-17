@@ -203,27 +203,47 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1790. Check if One String S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "918. Maximum Sum Circular Subarray", "918. Maximum Sum Circular Subarray\918. Maximum Sum Circular Subarray.csproj", "{69D02812-8BBE-4744-A0FA-ED04B4D6CC0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "232. Implement Queue using Stacks", "232. Implement Queue using Stacks\232. Implement Queue using Stacks.csproj", "{780E66CC-A6C1-4BA8-A0E1-875731F6A1A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "232. Implement Queue using Stacks", "232. Implement Queue using Stacks\232. Implement Queue using Stacks.csproj", "{780E66CC-A6C1-4BA8-A0E1-875731F6A1A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "409. Longest Palindrome", "409. Longest Palindrome\409. Longest Palindrome.csproj", "{1DEA35D1-A649-488F-8235-A775732AC195}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "409. Longest Palindrome", "409. Longest Palindrome\409. Longest Palindrome.csproj", "{1DEA35D1-A649-488F-8235-A775732AC195}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "589. N-ary Tree Preorder Traversal", "589. N-ary Tree Preorder Traversal\589. N-ary Tree Preorder Traversal.csproj", "{B225E786-4747-401A-8BD7-EED6BF5960F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "589. N-ary Tree Preorder Traversal", "589. N-ary Tree Preorder Traversal\589. N-ary Tree Preorder Traversal.csproj", "{B225E786-4747-401A-8BD7-EED6BF5960F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "496. Next Greater Element I", "496. Next Greater Element I\496. Next Greater Element I.csproj", "{4C6A8E5B-C919-4CAF-8322-A6023ED3A2FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "496. Next Greater Element I", "496. Next Greater Element I\496. Next Greater Element I.csproj", "{4C6A8E5B-C919-4CAF-8322-A6023ED3A2FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1232. Check If It Is a Straight Line", "1232. Check If It Is a Straight Line\1232. Check If It Is a Straight Line.csproj", "{48B6B86C-2CC2-438E-8738-90D4168F7FD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1232. Check If It Is a Straight Line", "1232. Check If It Is a Straight Line\1232. Check If It Is a Straight Line.csproj", "{48B6B86C-2CC2-438E-8738-90D4168F7FD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34. Find First and Last Position of Element in Sorted Array", "34. Find First and Last Position of Element in Sorted Array\34. Find First and Last Position of Element in Sorted Array.csproj", "{B9028A2A-5442-4C5A-8F2A-EEDC35D42F08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "34. Find First and Last Position of Element in Sorted Array", "34. Find First and Last Position of Element in Sorted Array\34. Find First and Last Position of Element in Sorted Array.csproj", "{B9028A2A-5442-4C5A-8F2A-EEDC35D42F08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19. Remove Nth Node From End of List", "19. Remove Nth Node From End of List\19. Remove Nth Node From End of List.csproj", "{CC87A163-6806-4C13-BF97-467C3B985652}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19. Remove Nth Node From End of List", "19. Remove Nth Node From End of List\19. Remove Nth Node From End of List.csproj", "{CC87A163-6806-4C13-BF97-467C3B985652}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36. Valid Sudoku", "36. Valid Sudoku\36. Valid Sudoku.csproj", "{BF496FFA-FE55-40AA-B01D-283EF5FB3321}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "36. Valid Sudoku", "36. Valid Sudoku\36. Valid Sudoku.csproj", "{BF496FFA-FE55-40AA-B01D-283EF5FB3321}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "74. Search a 2D Matrix", "74. Search a 2D Matrix\74. Search a 2D Matrix.csproj", "{0270B03E-91B8-4093-BF37-B5C4E1B33B8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "74. Search a 2D Matrix", "74. Search a 2D Matrix\74. Search a 2D Matrix.csproj", "{0270B03E-91B8-4093-BF37-B5C4E1B33B8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "152. Maximum Product Subarray", "152. Maximum Product Subarray\152. Maximum Product Subarray.csproj", "{504CE564-055E-4FE8-AB91-F6D56703AC0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "152. Maximum Product Subarray", "152. Maximum Product Subarray\152. Maximum Product Subarray.csproj", "{504CE564-055E-4FE8-AB91-F6D56703AC0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1567. Maximum Length of Subarray With Positive Product", "1567. Maximum Length of Subarray With Positive Product\1567. Maximum Length of Subarray With Positive Product.csproj", "{E765E676-8B15-4AA3-846F-C06CD5F7B0E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1567. Maximum Length of Subarray With Positive Product", "1567. Maximum Length of Subarray With Positive Product\1567. Maximum Length of Subarray With Positive Product.csproj", "{E765E676-8B15-4AA3-846F-C06CD5F7B0E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "150. Evaluate Reverse Polish Notation", "150. Evaluate Reverse Polish Notation\150. Evaluate Reverse Polish Notation.csproj", "{7C0C27BD-69BC-4145-B8A4-98DCFC49E776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "102. Binary Tree Level Order Traversal", "102. Binary Tree Level Order Traversal\102. Binary Tree Level Order Traversal.csproj", "{51116663-0F97-4ABF-997A-909EAD1C5339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "387. First Unique Character in a String", "387. First Unique Character in a String\387. First Unique Character in a String.csproj", "{EDD2E2A6-88EB-4DBC-919D-EE712D210104}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "242. Valid Anagram", "242. Valid Anagram\242. Valid Anagram.csproj", "{A9BF1360-7BAF-4868-B4B6-7E2BBC849712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "567. Permutation in String", "567. Permutation in String\567. Permutation in String.csproj", "{8B9F954D-9F2F-4898-9030-DCAD3CA44259}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "441. Arranging Coins", "441. Arranging Coins\441. Arranging Coins.csproj", "{6DC5DA9D-F93A-46CB-8587-BDD4C9671EDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1539. Kth Missing Positive Number", "1539. Kth Missing Positive Number\1539. Kth Missing Positive Number.csproj", "{3E974F60-54D7-4AFA-85C3-2CBC79431184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1588. Sum of All Odd Length Subarrays", "1588. Sum of All Odd Length Subarrays\1588. Sum of All Odd Length Subarrays.csproj", "{4240E8FD-DCDE-4350-AA62-6188CE4C7764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1014. Best Sightseeing Pair", "1014. Best Sightseeing Pair\1014. Best Sightseeing Pair.csproj", "{1343AA53-8AEF-4128-BCD2-C55CDFFA07CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "122. Best Time to Buy and Sell Stock II", "122. Best Time to Buy and Sell Stock II\122. Best Time to Buy and Sell Stock II.csproj", "{9303FE38-6E51-4711-8AD3-1099E24D144C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -675,6 +695,46 @@ Global
 		{E765E676-8B15-4AA3-846F-C06CD5F7B0E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E765E676-8B15-4AA3-846F-C06CD5F7B0E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E765E676-8B15-4AA3-846F-C06CD5F7B0E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C0C27BD-69BC-4145-B8A4-98DCFC49E776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0C27BD-69BC-4145-B8A4-98DCFC49E776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0C27BD-69BC-4145-B8A4-98DCFC49E776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0C27BD-69BC-4145-B8A4-98DCFC49E776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51116663-0F97-4ABF-997A-909EAD1C5339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51116663-0F97-4ABF-997A-909EAD1C5339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51116663-0F97-4ABF-997A-909EAD1C5339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51116663-0F97-4ABF-997A-909EAD1C5339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDD2E2A6-88EB-4DBC-919D-EE712D210104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD2E2A6-88EB-4DBC-919D-EE712D210104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD2E2A6-88EB-4DBC-919D-EE712D210104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD2E2A6-88EB-4DBC-919D-EE712D210104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9BF1360-7BAF-4868-B4B6-7E2BBC849712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9BF1360-7BAF-4868-B4B6-7E2BBC849712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9BF1360-7BAF-4868-B4B6-7E2BBC849712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9BF1360-7BAF-4868-B4B6-7E2BBC849712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B9F954D-9F2F-4898-9030-DCAD3CA44259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B9F954D-9F2F-4898-9030-DCAD3CA44259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B9F954D-9F2F-4898-9030-DCAD3CA44259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B9F954D-9F2F-4898-9030-DCAD3CA44259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DC5DA9D-F93A-46CB-8587-BDD4C9671EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC5DA9D-F93A-46CB-8587-BDD4C9671EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC5DA9D-F93A-46CB-8587-BDD4C9671EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC5DA9D-F93A-46CB-8587-BDD4C9671EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E974F60-54D7-4AFA-85C3-2CBC79431184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E974F60-54D7-4AFA-85C3-2CBC79431184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E974F60-54D7-4AFA-85C3-2CBC79431184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E974F60-54D7-4AFA-85C3-2CBC79431184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4240E8FD-DCDE-4350-AA62-6188CE4C7764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4240E8FD-DCDE-4350-AA62-6188CE4C7764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4240E8FD-DCDE-4350-AA62-6188CE4C7764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4240E8FD-DCDE-4350-AA62-6188CE4C7764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1343AA53-8AEF-4128-BCD2-C55CDFFA07CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1343AA53-8AEF-4128-BCD2-C55CDFFA07CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1343AA53-8AEF-4128-BCD2-C55CDFFA07CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1343AA53-8AEF-4128-BCD2-C55CDFFA07CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9303FE38-6E51-4711-8AD3-1099E24D144C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9303FE38-6E51-4711-8AD3-1099E24D144C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9303FE38-6E51-4711-8AD3-1099E24D144C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9303FE38-6E51-4711-8AD3-1099E24D144C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
