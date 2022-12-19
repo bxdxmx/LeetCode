@@ -251,17 +251,41 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "141. Linked List Cycle", "1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "203. Remove Linked List Elements", "203. Remove Linked List Elements\203. Remove Linked List Elements.csproj", "{34656EA4-EBB6-47A2-AAFC-231121240EE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "733. Flood Fill", "733. Flood Fill\733. Flood Fill.csproj", "{0AF4D474-2DC8-4C32-99FA-2C8FC131F1C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "733. Flood Fill", "733. Flood Fill\733. Flood Fill.csproj", "{0AF4D474-2DC8-4C32-99FA-2C8FC131F1C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "695. Max Area of Island", "695. Max Area of Island\695. Max Area of Island.csproj", "{37B66546-7AB0-4292-B016-D29417CDEA72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "695. Max Area of Island", "695. Max Area of Island\695. Max Area of Island.csproj", "{37B66546-7AB0-4292-B016-D29417CDEA72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1608. Special Array With X Elements Greater Than or Equal X", "1608. Special Array With X Elements Greater Than or Equal X\1608. Special Array With X Elements Greater Than or Equal X.csproj", "{F30B0686-6083-4ACF-88B2-8CBB988A881A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1608. Special Array With X Elements Greater Than or Equal X", "1608. Special Array With X Elements Greater Than or Equal X\1608. Special Array With X Elements Greater Than or Equal X.csproj", "{F30B0686-6083-4ACF-88B2-8CBB988A881A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1572. Matrix Diagonal Sum", "1572. Matrix Diagonal Sum\1572. Matrix Diagonal Sum.csproj", "{D39E2EC0-6B43-4216-AFCD-73833AD60591}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1572. Matrix Diagonal Sum", "1572. Matrix Diagonal Sum\1572. Matrix Diagonal Sum.csproj", "{D39E2EC0-6B43-4216-AFCD-73833AD60591}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "309. Best Time to Buy and Sell Stock with Cooldown", "309. Best Time to Buy and Sell Stock with Cooldown\309. Best Time to Buy and Sell Stock with Cooldown.csproj", "{27D2A743-A794-4BC5-9B8E-53191F75ED73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "309. Best Time to Buy and Sell Stock with Cooldown", "309. Best Time to Buy and Sell Stock with Cooldown\309. Best Time to Buy and Sell Stock with Cooldown.csproj", "{27D2A743-A794-4BC5-9B8E-53191F75ED73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "714. Best Time to Buy and Sell Stock with Transaction Fee", "714. Best Time to Buy and Sell Stock with Transaction Fee\714. Best Time to Buy and Sell Stock with Transaction Fee.csproj", "{7504574C-61E1-4A14-9E4F-1C8468F30E07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "714. Best Time to Buy and Sell Stock with Transaction Fee", "714. Best Time to Buy and Sell Stock with Transaction Fee\714. Best Time to Buy and Sell Stock with Transaction Fee.csproj", "{7504574C-61E1-4A14-9E4F-1C8468F30E07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1971. Find if Path Exists in Graph", "1971. Find if Path Exists in Graph\1971. Find if Path Exists in Graph.csproj", "{4138CFFD-3E4D-4E37-A5B1-76971291A3E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "98. Validate Binary Search Tree", "98. Validate Binary Search Tree\98. Validate Binary Search Tree.csproj", "{827BF4DA-C989-4278-ACAC-EB69FA7ED4A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "235. Lowest Common Ancestor of a Binary Search Tree", "235. Lowest Common Ancestor of a Binary Search Tree\235. Lowest Common Ancestor of a Binary Search Tree.csproj", "{965631CE-6000-44A5-984A-596EE502C356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "83. Remove Duplicates from Sorted List", "83. Remove Duplicates from Sorted List\83. Remove Duplicates from Sorted List.csproj", "{96F4B9BA-8098-4FBC-B80C-BD5B17A834B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "617. Merge Two Binary Trees", "617. Merge Two Binary Trees\617. Merge Two Binary Trees.csproj", "{E9140767-279E-412E-B4B3-4B0F47AF268C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "116. Populating Next Right Pointers in Each Node", "116. Populating Next Right Pointers in Each Node\116. Populating Next Right Pointers in Each Node.csproj", "{4A2135CF-E4A6-4C48-A803-AF068C8BA2B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1351. Count Negative Numbers in a Sorted Matrix", "1351. Count Negative Numbers in a Sorted Matrix\1351. Count Negative Numbers in a Sorted Matrix.csproj", "{42364C81-5047-40C0-A6B4-AC2CED7C34BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1768. Merge Strings Alternately", "1768. Merge Strings Alternately\1768. Merge Strings Alternately.csproj", "{97897F42-4E27-46C1-B7DA-1B35A03AA8BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1678. Goal Parser Interpretation", "1678. Goal Parser Interpretation\1678. Goal Parser Interpretation.csproj", "{7F6E621D-37F8-4D53-97AC-2B6F7C049A2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "389. Find the Difference", "389. Find the Difference\389. Find the Difference.csproj", "{6FCB8128-B459-4C98-ABD0-84CDB24B9E77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "139. Word Break", "139. Word Break\139. Word Break.csproj", "{38CA91F0-1AF7-4368-9F2B-55C79E397CB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42. Trapping Rain Water", "42. Trapping Rain Water\42. Trapping Rain Water.csproj", "{E21B4945-7096-41AE-90EB-41249FD597DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -789,6 +813,54 @@ Global
 		{7504574C-61E1-4A14-9E4F-1C8468F30E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7504574C-61E1-4A14-9E4F-1C8468F30E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7504574C-61E1-4A14-9E4F-1C8468F30E07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4138CFFD-3E4D-4E37-A5B1-76971291A3E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4138CFFD-3E4D-4E37-A5B1-76971291A3E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4138CFFD-3E4D-4E37-A5B1-76971291A3E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4138CFFD-3E4D-4E37-A5B1-76971291A3E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{827BF4DA-C989-4278-ACAC-EB69FA7ED4A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827BF4DA-C989-4278-ACAC-EB69FA7ED4A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827BF4DA-C989-4278-ACAC-EB69FA7ED4A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827BF4DA-C989-4278-ACAC-EB69FA7ED4A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{965631CE-6000-44A5-984A-596EE502C356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965631CE-6000-44A5-984A-596EE502C356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965631CE-6000-44A5-984A-596EE502C356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965631CE-6000-44A5-984A-596EE502C356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96F4B9BA-8098-4FBC-B80C-BD5B17A834B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F4B9BA-8098-4FBC-B80C-BD5B17A834B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F4B9BA-8098-4FBC-B80C-BD5B17A834B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F4B9BA-8098-4FBC-B80C-BD5B17A834B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9140767-279E-412E-B4B3-4B0F47AF268C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9140767-279E-412E-B4B3-4B0F47AF268C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9140767-279E-412E-B4B3-4B0F47AF268C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9140767-279E-412E-B4B3-4B0F47AF268C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A2135CF-E4A6-4C48-A803-AF068C8BA2B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2135CF-E4A6-4C48-A803-AF068C8BA2B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2135CF-E4A6-4C48-A803-AF068C8BA2B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2135CF-E4A6-4C48-A803-AF068C8BA2B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42364C81-5047-40C0-A6B4-AC2CED7C34BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42364C81-5047-40C0-A6B4-AC2CED7C34BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42364C81-5047-40C0-A6B4-AC2CED7C34BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42364C81-5047-40C0-A6B4-AC2CED7C34BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97897F42-4E27-46C1-B7DA-1B35A03AA8BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97897F42-4E27-46C1-B7DA-1B35A03AA8BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97897F42-4E27-46C1-B7DA-1B35A03AA8BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97897F42-4E27-46C1-B7DA-1B35A03AA8BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F6E621D-37F8-4D53-97AC-2B6F7C049A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F6E621D-37F8-4D53-97AC-2B6F7C049A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F6E621D-37F8-4D53-97AC-2B6F7C049A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F6E621D-37F8-4D53-97AC-2B6F7C049A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FCB8128-B459-4C98-ABD0-84CDB24B9E77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FCB8128-B459-4C98-ABD0-84CDB24B9E77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FCB8128-B459-4C98-ABD0-84CDB24B9E77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FCB8128-B459-4C98-ABD0-84CDB24B9E77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38CA91F0-1AF7-4368-9F2B-55C79E397CB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38CA91F0-1AF7-4368-9F2B-55C79E397CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38CA91F0-1AF7-4368-9F2B-55C79E397CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38CA91F0-1AF7-4368-9F2B-55C79E397CB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E21B4945-7096-41AE-90EB-41249FD597DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21B4945-7096-41AE-90EB-41249FD597DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E21B4945-7096-41AE-90EB-41249FD597DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E21B4945-7096-41AE-90EB-41249FD597DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
