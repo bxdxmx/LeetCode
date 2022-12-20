@@ -263,29 +263,45 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "309. Best Time to Buy and S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "714. Best Time to Buy and Sell Stock with Transaction Fee", "714. Best Time to Buy and Sell Stock with Transaction Fee\714. Best Time to Buy and Sell Stock with Transaction Fee.csproj", "{7504574C-61E1-4A14-9E4F-1C8468F30E07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1971. Find if Path Exists in Graph", "1971. Find if Path Exists in Graph\1971. Find if Path Exists in Graph.csproj", "{4138CFFD-3E4D-4E37-A5B1-76971291A3E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1971. Find if Path Exists in Graph", "1971. Find if Path Exists in Graph\1971. Find if Path Exists in Graph.csproj", "{4138CFFD-3E4D-4E37-A5B1-76971291A3E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "98. Validate Binary Search Tree", "98. Validate Binary Search Tree\98. Validate Binary Search Tree.csproj", "{827BF4DA-C989-4278-ACAC-EB69FA7ED4A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "98. Validate Binary Search Tree", "98. Validate Binary Search Tree\98. Validate Binary Search Tree.csproj", "{827BF4DA-C989-4278-ACAC-EB69FA7ED4A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "235. Lowest Common Ancestor of a Binary Search Tree", "235. Lowest Common Ancestor of a Binary Search Tree\235. Lowest Common Ancestor of a Binary Search Tree.csproj", "{965631CE-6000-44A5-984A-596EE502C356}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "235. Lowest Common Ancestor of a Binary Search Tree", "235. Lowest Common Ancestor of a Binary Search Tree\235. Lowest Common Ancestor of a Binary Search Tree.csproj", "{965631CE-6000-44A5-984A-596EE502C356}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "83. Remove Duplicates from Sorted List", "83. Remove Duplicates from Sorted List\83. Remove Duplicates from Sorted List.csproj", "{96F4B9BA-8098-4FBC-B80C-BD5B17A834B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "83. Remove Duplicates from Sorted List", "83. Remove Duplicates from Sorted List\83. Remove Duplicates from Sorted List.csproj", "{96F4B9BA-8098-4FBC-B80C-BD5B17A834B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "617. Merge Two Binary Trees", "617. Merge Two Binary Trees\617. Merge Two Binary Trees.csproj", "{E9140767-279E-412E-B4B3-4B0F47AF268C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "617. Merge Two Binary Trees", "617. Merge Two Binary Trees\617. Merge Two Binary Trees.csproj", "{E9140767-279E-412E-B4B3-4B0F47AF268C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "116. Populating Next Right Pointers in Each Node", "116. Populating Next Right Pointers in Each Node\116. Populating Next Right Pointers in Each Node.csproj", "{4A2135CF-E4A6-4C48-A803-AF068C8BA2B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "116. Populating Next Right Pointers in Each Node", "116. Populating Next Right Pointers in Each Node\116. Populating Next Right Pointers in Each Node.csproj", "{4A2135CF-E4A6-4C48-A803-AF068C8BA2B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1351. Count Negative Numbers in a Sorted Matrix", "1351. Count Negative Numbers in a Sorted Matrix\1351. Count Negative Numbers in a Sorted Matrix.csproj", "{42364C81-5047-40C0-A6B4-AC2CED7C34BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1351. Count Negative Numbers in a Sorted Matrix", "1351. Count Negative Numbers in a Sorted Matrix\1351. Count Negative Numbers in a Sorted Matrix.csproj", "{42364C81-5047-40C0-A6B4-AC2CED7C34BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1768. Merge Strings Alternately", "1768. Merge Strings Alternately\1768. Merge Strings Alternately.csproj", "{97897F42-4E27-46C1-B7DA-1B35A03AA8BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1768. Merge Strings Alternately", "1768. Merge Strings Alternately\1768. Merge Strings Alternately.csproj", "{97897F42-4E27-46C1-B7DA-1B35A03AA8BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1678. Goal Parser Interpretation", "1678. Goal Parser Interpretation\1678. Goal Parser Interpretation.csproj", "{7F6E621D-37F8-4D53-97AC-2B6F7C049A2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1678. Goal Parser Interpretation", "1678. Goal Parser Interpretation\1678. Goal Parser Interpretation.csproj", "{7F6E621D-37F8-4D53-97AC-2B6F7C049A2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "389. Find the Difference", "389. Find the Difference\389. Find the Difference.csproj", "{6FCB8128-B459-4C98-ABD0-84CDB24B9E77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "389. Find the Difference", "389. Find the Difference\389. Find the Difference.csproj", "{6FCB8128-B459-4C98-ABD0-84CDB24B9E77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "139. Word Break", "139. Word Break\139. Word Break.csproj", "{38CA91F0-1AF7-4368-9F2B-55C79E397CB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "139. Word Break", "139. Word Break\139. Word Break.csproj", "{38CA91F0-1AF7-4368-9F2B-55C79E397CB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42. Trapping Rain Water", "42. Trapping Rain Water\42. Trapping Rain Water.csproj", "{E21B4945-7096-41AE-90EB-41249FD597DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "42. Trapping Rain Water", "42. Trapping Rain Water\42. Trapping Rain Water.csproj", "{E21B4945-7096-41AE-90EB-41249FD597DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "841. Keys and Rooms", "841. Keys and Rooms\841. Keys and Rooms.csproj", "{03D7F05A-FCB7-45FB-B52B-C4E6990CDBFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "200. Number of Islands", "200. Number of Islands\200. Number of Islands.csproj", "{438A6CE2-2C22-4F72-B044-0FB8D293CD0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "542. 01 Matrix", "542. 01 Matrix\542. 01 Matrix.csproj", "{23ADDCE5-A5AF-4E76-AAEB-9588BCAC682F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "994. Rotting Oranges", "994. Rotting Oranges\994. Rotting Oranges.csproj", "{1EF18AF1-035F-46A4-89CB-7A6995D9FC08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1309. Decrypt String from Alphabet to Integer Mapping", "1309. Decrypt String from Alphabet to Integer Mapping\1309. Decrypt String from Alphabet to Integer Mapping.csproj", "{D5EAC867-1476-45FA-9A20-F7370C0AA85B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "953. Verifying an Alien Dictionary", "953. Verifying an Alien Dictionary\953. Verifying an Alien Dictionary.csproj", "{3B446BE6-74CE-4024-B8BC-44EF3C592C67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "413. Arithmetic Slices", "413. Arithmetic Slices\413. Arithmetic Slices.csproj", "{EB4A566D-9294-4393-969E-CE68B5311B03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "91. Decode Ways", "91. Decode Ways\91. Decode Ways.csproj", "{8CB94C65-9B67-4C98-8469-A88A30CDDBAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -861,6 +877,38 @@ Global
 		{E21B4945-7096-41AE-90EB-41249FD597DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E21B4945-7096-41AE-90EB-41249FD597DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E21B4945-7096-41AE-90EB-41249FD597DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03D7F05A-FCB7-45FB-B52B-C4E6990CDBFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D7F05A-FCB7-45FB-B52B-C4E6990CDBFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03D7F05A-FCB7-45FB-B52B-C4E6990CDBFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03D7F05A-FCB7-45FB-B52B-C4E6990CDBFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{438A6CE2-2C22-4F72-B044-0FB8D293CD0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438A6CE2-2C22-4F72-B044-0FB8D293CD0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438A6CE2-2C22-4F72-B044-0FB8D293CD0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438A6CE2-2C22-4F72-B044-0FB8D293CD0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23ADDCE5-A5AF-4E76-AAEB-9588BCAC682F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23ADDCE5-A5AF-4E76-AAEB-9588BCAC682F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23ADDCE5-A5AF-4E76-AAEB-9588BCAC682F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23ADDCE5-A5AF-4E76-AAEB-9588BCAC682F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EF18AF1-035F-46A4-89CB-7A6995D9FC08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EF18AF1-035F-46A4-89CB-7A6995D9FC08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EF18AF1-035F-46A4-89CB-7A6995D9FC08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF18AF1-035F-46A4-89CB-7A6995D9FC08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5EAC867-1476-45FA-9A20-F7370C0AA85B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5EAC867-1476-45FA-9A20-F7370C0AA85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5EAC867-1476-45FA-9A20-F7370C0AA85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5EAC867-1476-45FA-9A20-F7370C0AA85B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B446BE6-74CE-4024-B8BC-44EF3C592C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B446BE6-74CE-4024-B8BC-44EF3C592C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B446BE6-74CE-4024-B8BC-44EF3C592C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B446BE6-74CE-4024-B8BC-44EF3C592C67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB4A566D-9294-4393-969E-CE68B5311B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4A566D-9294-4393-969E-CE68B5311B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4A566D-9294-4393-969E-CE68B5311B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4A566D-9294-4393-969E-CE68B5311B03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CB94C65-9B67-4C98-8469-A88A30CDDBAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB94C65-9B67-4C98-8469-A88A30CDDBAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB94C65-9B67-4C98-8469-A88A30CDDBAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB94C65-9B67-4C98-8469-A88A30CDDBAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
