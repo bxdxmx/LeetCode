@@ -373,21 +373,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1314. Matrix Block Sum", "1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "304. Range Sum Query 2D - Immutable", "304. Range Sum Query 2D - Immutable\304. Range Sum Query 2D - Immutable.csproj", "{DE2B8ABF-C47A-4A5A-B1F1-53AFC0D9249B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2389. Longest Subsequence With Limited Sum", "2389. Longest Subsequence With Limited Sum\2389. Longest Subsequence With Limited Sum.csproj", "{D501EE0E-C82E-4E77-BB71-EF1C4D0E1A06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2389. Longest Subsequence With Limited Sum", "2389. Longest Subsequence With Limited Sum\2389. Longest Subsequence With Limited Sum.csproj", "{D501EE0E-C82E-4E77-BB71-EF1C4D0E1A06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "190. Reverse Bits", "190. Reverse Bits\190. Reverse Bits.csproj", "{54B2E2D5-AFA0-44B3-818E-D1ED24473B4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "190. Reverse Bits", "190. Reverse Bits\190. Reverse Bits.csproj", "{54B2E2D5-AFA0-44B3-818E-D1ED24473B4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "136. Single Number", "136. Single Number\136. Single Number.csproj", "{2BD47329-57E6-4CBC-9086-276EE4CD40B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "136. Single Number", "136. Single Number\136. Single Number.csproj", "{2BD47329-57E6-4CBC-9086-276EE4CD40B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6269. Shortest Distance to Target String in a Circular Array", "6269. Shortest Distance to Target String in a Circular Array\6269. Shortest Distance to Target String in a Circular Array.csproj", "{DB026C3E-9964-4F82-A22F-FFB660512825}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6269. Shortest Distance to Target String in a Circular Array", "6269. Shortest Distance to Target String in a Circular Array\6269. Shortest Distance to Target String in a Circular Array.csproj", "{DB026C3E-9964-4F82-A22F-FFB660512825}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6270. Take K of Each Character From Left and Right", "6270. Take K of Each Character From Left and Right\6270. Take K of Each Character From Left and Right.csproj", "{50DF6A34-57DE-4A01-A5F7-B10A30E04844}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6270. Take K of Each Character From Left and Right", "6270. Take K of Each Character From Left and Right\6270. Take K of Each Character From Left and Right.csproj", "{50DF6A34-57DE-4A01-A5F7-B10A30E04844}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "653. Two Sum IV - Input is a BST", "653. Two Sum IV - Input is a BST\653. Two Sum IV - Input is a BST.csproj", "{A11AF241-2D1F-4743-B342-8D947A5A296A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "653. Two Sum IV - Input is a BST", "653. Two Sum IV - Input is a BST\653. Two Sum IV - Input is a BST.csproj", "{A11AF241-2D1F-4743-B342-8D947A5A296A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "844. Backspace String Compare", "844. Backspace String Compare\844. Backspace String Compare.csproj", "{DF358A1C-4EF9-45BE-B013-4FFFB822A3AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "844. Backspace String Compare", "844. Backspace String Compare\844. Backspace String Compare.csproj", "{DF358A1C-4EF9-45BE-B013-4FFFB822A3AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "394. Decode String", "394. Decode String\394. Decode String.csproj", "{4CB6054B-EF38-435B-BB7F-B3A9659969A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "394. Decode String", "394. Decode String\394. Decode String.csproj", "{4CB6054B-EF38-435B-BB7F-B3A9659969A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "63. Unique Paths II", "63. Unique Paths II\63. Unique Paths II.csproj", "{AB0D1D67-163F-4F55-A79F-B433428FEE19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1046. Last Stone Weight", "1046. Last Stone Weight\1046. Last Stone Weight.csproj", "{30B13FB6-F515-4734-987D-567B23B4FE0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "692. Top K Frequent Words", "692. Top K Frequent Words\692. Top K Frequent Words.csproj", "{E544C6AF-7C5B-468A-BE5A-5F0D90EACB5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "64. Minimum Path Sum", "64. Minimum Path Sum\64. Minimum Path Sum.csproj", "{FED403F7-AB12-46EA-9B44-D31C6C63963F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "221. Maximal Square", "221. Maximal Square\221. Maximal Square.csproj", "{AC4B88BB-1949-4306-8BA6-504F3A2DF7B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1167,6 +1177,26 @@ Global
 		{4CB6054B-EF38-435B-BB7F-B3A9659969A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CB6054B-EF38-435B-BB7F-B3A9659969A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CB6054B-EF38-435B-BB7F-B3A9659969A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB0D1D67-163F-4F55-A79F-B433428FEE19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0D1D67-163F-4F55-A79F-B433428FEE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0D1D67-163F-4F55-A79F-B433428FEE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0D1D67-163F-4F55-A79F-B433428FEE19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B13FB6-F515-4734-987D-567B23B4FE0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B13FB6-F515-4734-987D-567B23B4FE0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B13FB6-F515-4734-987D-567B23B4FE0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B13FB6-F515-4734-987D-567B23B4FE0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E544C6AF-7C5B-468A-BE5A-5F0D90EACB5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E544C6AF-7C5B-468A-BE5A-5F0D90EACB5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E544C6AF-7C5B-468A-BE5A-5F0D90EACB5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E544C6AF-7C5B-468A-BE5A-5F0D90EACB5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FED403F7-AB12-46EA-9B44-D31C6C63963F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED403F7-AB12-46EA-9B44-D31C6C63963F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED403F7-AB12-46EA-9B44-D31C6C63963F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED403F7-AB12-46EA-9B44-D31C6C63963F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4B88BB-1949-4306-8BA6-504F3A2DF7B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4B88BB-1949-4306-8BA6-504F3A2DF7B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4B88BB-1949-4306-8BA6-504F3A2DF7B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4B88BB-1949-4306-8BA6-504F3A2DF7B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
