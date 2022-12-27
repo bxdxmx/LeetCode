@@ -391,13 +391,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "394. Decode String", "394. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "63. Unique Paths II", "63. Unique Paths II\63. Unique Paths II.csproj", "{AB0D1D67-163F-4F55-A79F-B433428FEE19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1046. Last Stone Weight", "1046. Last Stone Weight\1046. Last Stone Weight.csproj", "{30B13FB6-F515-4734-987D-567B23B4FE0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1046. Last Stone Weight", "1046. Last Stone Weight\1046. Last Stone Weight.csproj", "{30B13FB6-F515-4734-987D-567B23B4FE0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "692. Top K Frequent Words", "692. Top K Frequent Words\692. Top K Frequent Words.csproj", "{E544C6AF-7C5B-468A-BE5A-5F0D90EACB5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "692. Top K Frequent Words", "692. Top K Frequent Words\692. Top K Frequent Words.csproj", "{E544C6AF-7C5B-468A-BE5A-5F0D90EACB5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "64. Minimum Path Sum", "64. Minimum Path Sum\64. Minimum Path Sum.csproj", "{FED403F7-AB12-46EA-9B44-D31C6C63963F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "64. Minimum Path Sum", "64. Minimum Path Sum\64. Minimum Path Sum.csproj", "{FED403F7-AB12-46EA-9B44-D31C6C63963F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "221. Maximal Square", "221. Maximal Square\221. Maximal Square.csproj", "{AC4B88BB-1949-4306-8BA6-504F3A2DF7B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "221. Maximal Square", "221. Maximal Square\221. Maximal Square.csproj", "{AC4B88BB-1949-4306-8BA6-504F3A2DF7B9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "896. Monotonic Array", "896. Monotonic Array\896. Monotonic Array.csproj", "{752D5312-C171-453B-946D-DEDAB2907ACF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28. Find the Index of the First Occurrence in a String", "28. Find the Index of the First Occurrence in a String\28. Find the Index of the First Occurrence in a String.csproj", "{84476DA6-A5A0-45A8-A034-31C1811F008C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2279. Maximum Bags With Full Capacity of Rocks", "2279. Maximum Bags With Full Capacity of Rocks\2279. Maximum Bags With Full Capacity of Rocks.csproj", "{D8C7565B-ED4F-4E6E-A41E-50B7C83D59DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "110. Balanced Binary Tree", "110. Balanced Binary Tree\110. Balanced Binary Tree.csproj", "{C80733ED-6674-44D7-97EB-E97A4FC65A3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "459. Repeated Substring Pattern", "459. Repeated Substring Pattern\459. Repeated Substring Pattern.csproj", "{D2B70B49-16C8-4485-A30A-264F276E8D9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "516. Longest Palindromic Subsequence", "516. Longest Palindromic Subsequence\516. Longest Palindromic Subsequence.csproj", "{3EB382B9-BCC7-400A-A078-DD78214B47D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1197,6 +1209,30 @@ Global
 		{AC4B88BB-1949-4306-8BA6-504F3A2DF7B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC4B88BB-1949-4306-8BA6-504F3A2DF7B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC4B88BB-1949-4306-8BA6-504F3A2DF7B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{752D5312-C171-453B-946D-DEDAB2907ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752D5312-C171-453B-946D-DEDAB2907ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752D5312-C171-453B-946D-DEDAB2907ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752D5312-C171-453B-946D-DEDAB2907ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84476DA6-A5A0-45A8-A034-31C1811F008C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84476DA6-A5A0-45A8-A034-31C1811F008C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84476DA6-A5A0-45A8-A034-31C1811F008C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84476DA6-A5A0-45A8-A034-31C1811F008C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8C7565B-ED4F-4E6E-A41E-50B7C83D59DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C7565B-ED4F-4E6E-A41E-50B7C83D59DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C7565B-ED4F-4E6E-A41E-50B7C83D59DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C7565B-ED4F-4E6E-A41E-50B7C83D59DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C80733ED-6674-44D7-97EB-E97A4FC65A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C80733ED-6674-44D7-97EB-E97A4FC65A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C80733ED-6674-44D7-97EB-E97A4FC65A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C80733ED-6674-44D7-97EB-E97A4FC65A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B70B49-16C8-4485-A30A-264F276E8D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B70B49-16C8-4485-A30A-264F276E8D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B70B49-16C8-4485-A30A-264F276E8D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B70B49-16C8-4485-A30A-264F276E8D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EB382B9-BCC7-400A-A078-DD78214B47D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB382B9-BCC7-400A-A078-DD78214B47D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB382B9-BCC7-400A-A078-DD78214B47D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB382B9-BCC7-400A-A078-DD78214B47D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
