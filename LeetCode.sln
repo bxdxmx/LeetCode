@@ -427,15 +427,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "43. Multiply Strings", "43.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "72. Edit Distance", "72. Edit Distance\72. Edit Distance.csproj", "{CF5FE2CB-1A7C-4575-B715-86C8D01F6BFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "797. All Paths From Source to Target", "797. All Paths From Source to Target\797. All Paths From Source to Target.csproj", "{C17976D4-DAF9-4768-A057-497120A2B16A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "797. All Paths From Source to Target", "797. All Paths From Source to Target\797. All Paths From Source to Target.csproj", "{C17976D4-DAF9-4768-A057-497120A2B16A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "67. Add Binary", "67. Add Binary\67. Add Binary.csproj", "{5E4FCDB4-BA20-4270-91CA-E39B56F0310F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "67. Add Binary", "67. Add Binary\67. Add Binary.csproj", "{5E4FCDB4-BA20-4270-91CA-E39B56F0310F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "989. Add to Array-Form of Integer", "989. Add to Array-Form of Integer\989. Add to Array-Form of Integer.csproj", "{6CB51E43-4E6D-4939-8D97-EB235E688016}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "989. Add to Array-Form of Integer", "989. Add to Array-Form of Integer\989. Add to Array-Form of Integer.csproj", "{6CB51E43-4E6D-4939-8D97-EB235E688016}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "322. Coin Change", "322. Coin Change\322. Coin Change.csproj", "{55E8A80B-AAB1-49B2-B2D7-8B0CEDA2A27E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "322. Coin Change", "322. Coin Change\322. Coin Change.csproj", "{55E8A80B-AAB1-49B2-B2D7-8B0CEDA2A27E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "518. Coin Change II", "518. Coin Change II\518. Coin Change II.csproj", "{41F42F3C-419C-4417-8747-C9F46ABF4D81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "518. Coin Change II", "518. Coin Change II\518. Coin Change II.csproj", "{41F42F3C-419C-4417-8747-C9F46ABF4D81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "58. Length of Last Word", "58. Length of Last Word\58. Length of Last Word.csproj", "{7AC8F7C2-D72D-4FE1-8447-0533BA48A032}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "377. Combination Sum IV", "377. Combination Sum IV\377. Combination Sum IV.csproj", "{8F4496E9-6C2E-4E3A-9AB0-5A6D68B266AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "343. Integer Break", "343. Integer Break\343. Integer Break.csproj", "{4B25724D-9B42-47AE-A7BB-14294AD9A99F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "279. Perfect Squares", "279. Perfect Squares\279. Perfect Squares.csproj", "{EF984E0F-A3CA-4285-8689-EADF12C7050F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "980. Unique Paths III", "980. Unique Paths III\980. Unique Paths III.csproj", "{AC83D8DA-86CE-4B09-B59B-931B0AA2F9E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1311,6 +1321,26 @@ Global
 		{41F42F3C-419C-4417-8747-C9F46ABF4D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41F42F3C-419C-4417-8747-C9F46ABF4D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41F42F3C-419C-4417-8747-C9F46ABF4D81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AC8F7C2-D72D-4FE1-8447-0533BA48A032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC8F7C2-D72D-4FE1-8447-0533BA48A032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC8F7C2-D72D-4FE1-8447-0533BA48A032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC8F7C2-D72D-4FE1-8447-0533BA48A032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F4496E9-6C2E-4E3A-9AB0-5A6D68B266AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F4496E9-6C2E-4E3A-9AB0-5A6D68B266AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F4496E9-6C2E-4E3A-9AB0-5A6D68B266AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F4496E9-6C2E-4E3A-9AB0-5A6D68B266AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B25724D-9B42-47AE-A7BB-14294AD9A99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B25724D-9B42-47AE-A7BB-14294AD9A99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B25724D-9B42-47AE-A7BB-14294AD9A99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B25724D-9B42-47AE-A7BB-14294AD9A99F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF984E0F-A3CA-4285-8689-EADF12C7050F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF984E0F-A3CA-4285-8689-EADF12C7050F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF984E0F-A3CA-4285-8689-EADF12C7050F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF984E0F-A3CA-4285-8689-EADF12C7050F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC83D8DA-86CE-4B09-B59B-931B0AA2F9E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC83D8DA-86CE-4B09-B59B-931B0AA2F9E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC83D8DA-86CE-4B09-B59B-931B0AA2F9E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC83D8DA-86CE-4B09-B59B-931B0AA2F9E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
