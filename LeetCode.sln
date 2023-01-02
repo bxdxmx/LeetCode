@@ -447,19 +447,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "279. Perfect Squares", "279
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "980. Unique Paths III", "980. Unique Paths III\980. Unique Paths III.csproj", "{AC83D8DA-86CE-4B09-B59B-931B0AA2F9E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "290. Word Pattern", "290. Word Pattern\290. Word Pattern.csproj", "{8D3B24F2-08FA-4E46-BF2B-461643B4180B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "290. Word Pattern", "290. Word Pattern\290. Word Pattern.csproj", "{8D3B24F2-08FA-4E46-BF2B-461643B4180B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "48. Rotate Image", "48. Rotate Image\48. Rotate Image.csproj", "{B9B12B82-DEB4-462B-BACA-25E2FD17446B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "48. Rotate Image", "48. Rotate Image\48. Rotate Image.csproj", "{B9B12B82-DEB4-462B-BACA-25E2FD17446B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1886. Determine Whether Matrix Can Be Obtained By Rotation", "1886. Determine Whether Matrix Can Be Obtained By Rotation\1886. Determine Whether Matrix Can Be Obtained By Rotation.csproj", "{6B3EA0C5-E667-48DC-8C8D-ADD055BCA8F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1886. Determine Whether Matrix Can Be Obtained By Rotation", "1886. Determine Whether Matrix Can Be Obtained By Rotation\1886. Determine Whether Matrix Can Be Obtained By Rotation.csproj", "{6B3EA0C5-E667-48DC-8C8D-ADD055BCA8F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6278. Count the Digits That Divide a Number", "6278. Count the Digits That Divide a Number\6278. Count the Digits That Divide a Number.csproj", "{41286376-3EA4-4C1F-B62F-1BE06E593750}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6278. Count the Digits That Divide a Number", "6278. Count the Digits That Divide a Number\6278. Count the Digits That Divide a Number.csproj", "{41286376-3EA4-4C1F-B62F-1BE06E593750}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6279. Distinct Prime Factors of Product of Array", "6279. Distinct Prime Factors of Product of Array\6279. Distinct Prime Factors of Product of Array.csproj", "{7DA3D721-ACDB-4224-8188-AB7F95B765D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6279. Distinct Prime Factors of Product of Array", "6279. Distinct Prime Factors of Product of Array\6279. Distinct Prime Factors of Product of Array.csproj", "{7DA3D721-ACDB-4224-8188-AB7F95B765D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6196. Partition String Into Substrings With Values at Most K", "6196. Partition String Into Substrings With Values at Most K\6196. Partition String Into Substrings With Values at Most K.csproj", "{437E6A1B-95C0-4058-A41D-422E616D1E13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6196. Partition String Into Substrings With Values at Most K", "6196. Partition String Into Substrings With Values at Most K\6196. Partition String Into Substrings With Values at Most K.csproj", "{437E6A1B-95C0-4058-A41D-422E616D1E13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6280. Closest Prime Numbers in Range", "6280. Closest Prime Numbers in Range\6280. Closest Prime Numbers in Range.csproj", "{567B8F55-54BD-4F23-9931-978C3D7BA0FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6280. Closest Prime Numbers in Range", "6280. Closest Prime Numbers in Range\6280. Closest Prime Numbers in Range.csproj", "{567B8F55-54BD-4F23-9931-978C3D7BA0FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "520. Detect Capital", "520. Detect Capital\520. Detect Capital.csproj", "{93026265-8E86-4135-A564-99FCD5D8593D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "54. Spiral Matrix", "54. Spiral Matrix\54. Spiral Matrix.csproj", "{6354DAB7-9539-4570-A535-BADD37438D3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "973. K Closest Points to Origin", "973. K Closest Points to Origin\973. K Closest Points to Origin.csproj", "{2AEFEFCF-3AB3-41BA-BA19-0B861D50B416}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1383,6 +1389,18 @@ Global
 		{567B8F55-54BD-4F23-9931-978C3D7BA0FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{567B8F55-54BD-4F23-9931-978C3D7BA0FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{567B8F55-54BD-4F23-9931-978C3D7BA0FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93026265-8E86-4135-A564-99FCD5D8593D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93026265-8E86-4135-A564-99FCD5D8593D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93026265-8E86-4135-A564-99FCD5D8593D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93026265-8E86-4135-A564-99FCD5D8593D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6354DAB7-9539-4570-A535-BADD37438D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6354DAB7-9539-4570-A535-BADD37438D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6354DAB7-9539-4570-A535-BADD37438D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6354DAB7-9539-4570-A535-BADD37438D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AEFEFCF-3AB3-41BA-BA19-0B861D50B416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AEFEFCF-3AB3-41BA-BA19-0B861D50B416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AEFEFCF-3AB3-41BA-BA19-0B861D50B416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AEFEFCF-3AB3-41BA-BA19-0B861D50B416}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
