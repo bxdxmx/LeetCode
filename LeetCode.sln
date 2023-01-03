@@ -461,11 +461,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6196. Partition String Into
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6280. Closest Prime Numbers in Range", "6280. Closest Prime Numbers in Range\6280. Closest Prime Numbers in Range.csproj", "{567B8F55-54BD-4F23-9931-978C3D7BA0FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "520. Detect Capital", "520. Detect Capital\520. Detect Capital.csproj", "{93026265-8E86-4135-A564-99FCD5D8593D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "520. Detect Capital", "520. Detect Capital\520. Detect Capital.csproj", "{93026265-8E86-4135-A564-99FCD5D8593D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "54. Spiral Matrix", "54. Spiral Matrix\54. Spiral Matrix.csproj", "{6354DAB7-9539-4570-A535-BADD37438D3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "54. Spiral Matrix", "54. Spiral Matrix\54. Spiral Matrix.csproj", "{6354DAB7-9539-4570-A535-BADD37438D3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "973. K Closest Points to Origin", "973. K Closest Points to Origin\973. K Closest Points to Origin.csproj", "{2AEFEFCF-3AB3-41BA-BA19-0B861D50B416}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "973. K Closest Points to Origin", "973. K Closest Points to Origin\973. K Closest Points to Origin.csproj", "{2AEFEFCF-3AB3-41BA-BA19-0B861D50B416}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "944. Delete Columns to Make Sorted", "944. Delete Columns to Make Sorted\944. Delete Columns to Make Sorted.csproj", "{F5F7A5BB-D113-4E31-9149-E6C19C57673A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1630. Arithmetic Subarrays", "1630. Arithmetic Subarrays\1630. Arithmetic Subarrays.csproj", "{73959B71-33CE-450E-A2A5-3126104DE1B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "429. N-ary Tree Level Order Traversal", "429. N-ary Tree Level Order Traversal\429. N-ary Tree Level Order Traversal.csproj", "{34172A8F-F406-4ABA-B2C0-DBAB806F0C93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1401,6 +1407,18 @@ Global
 		{2AEFEFCF-3AB3-41BA-BA19-0B861D50B416}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AEFEFCF-3AB3-41BA-BA19-0B861D50B416}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AEFEFCF-3AB3-41BA-BA19-0B861D50B416}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5F7A5BB-D113-4E31-9149-E6C19C57673A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F7A5BB-D113-4E31-9149-E6C19C57673A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F7A5BB-D113-4E31-9149-E6C19C57673A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F7A5BB-D113-4E31-9149-E6C19C57673A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73959B71-33CE-450E-A2A5-3126104DE1B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73959B71-33CE-450E-A2A5-3126104DE1B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73959B71-33CE-450E-A2A5-3126104DE1B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73959B71-33CE-450E-A2A5-3126104DE1B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34172A8F-F406-4ABA-B2C0-DBAB806F0C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34172A8F-F406-4ABA-B2C0-DBAB806F0C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34172A8F-F406-4ABA-B2C0-DBAB806F0C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34172A8F-F406-4ABA-B2C0-DBAB806F0C93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
