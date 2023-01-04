@@ -467,11 +467,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "54. Spiral Matrix", "54. Sp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "973. K Closest Points to Origin", "973. K Closest Points to Origin\973. K Closest Points to Origin.csproj", "{2AEFEFCF-3AB3-41BA-BA19-0B861D50B416}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "944. Delete Columns to Make Sorted", "944. Delete Columns to Make Sorted\944. Delete Columns to Make Sorted.csproj", "{F5F7A5BB-D113-4E31-9149-E6C19C57673A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "944. Delete Columns to Make Sorted", "944. Delete Columns to Make Sorted\944. Delete Columns to Make Sorted.csproj", "{F5F7A5BB-D113-4E31-9149-E6C19C57673A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1630. Arithmetic Subarrays", "1630. Arithmetic Subarrays\1630. Arithmetic Subarrays.csproj", "{73959B71-33CE-450E-A2A5-3126104DE1B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1630. Arithmetic Subarrays", "1630. Arithmetic Subarrays\1630. Arithmetic Subarrays.csproj", "{73959B71-33CE-450E-A2A5-3126104DE1B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "429. N-ary Tree Level Order Traversal", "429. N-ary Tree Level Order Traversal\429. N-ary Tree Level Order Traversal.csproj", "{34172A8F-F406-4ABA-B2C0-DBAB806F0C93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "429. N-ary Tree Level Order Traversal", "429. N-ary Tree Level Order Traversal\429. N-ary Tree Level Order Traversal.csproj", "{34172A8F-F406-4ABA-B2C0-DBAB806F0C93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2244. Minimum Rounds to Complete All Tasks", "2244. Minimum Rounds to Complete All Tasks\2244. Minimum Rounds to Complete All Tasks.csproj", "{2E237664-95F8-420A-B711-623B0AC620B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "503. Next Greater Element II", "503. Next Greater Element II\503. Next Greater Element II.csproj", "{C067E24A-D466-481E-9243-CD49DD62F5E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "556. Next Greater Element III", "556. Next Greater Element III\556. Next Greater Element III.csproj", "{87B10215-CE19-4D2E-B1B9-D5675D7BD854}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1419,6 +1425,18 @@ Global
 		{34172A8F-F406-4ABA-B2C0-DBAB806F0C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34172A8F-F406-4ABA-B2C0-DBAB806F0C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34172A8F-F406-4ABA-B2C0-DBAB806F0C93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E237664-95F8-420A-B711-623B0AC620B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E237664-95F8-420A-B711-623B0AC620B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E237664-95F8-420A-B711-623B0AC620B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E237664-95F8-420A-B711-623B0AC620B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C067E24A-D466-481E-9243-CD49DD62F5E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C067E24A-D466-481E-9243-CD49DD62F5E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C067E24A-D466-481E-9243-CD49DD62F5E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C067E24A-D466-481E-9243-CD49DD62F5E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87B10215-CE19-4D2E-B1B9-D5675D7BD854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B10215-CE19-4D2E-B1B9-D5675D7BD854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B10215-CE19-4D2E-B1B9-D5675D7BD854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B10215-CE19-4D2E-B1B9-D5675D7BD854}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
