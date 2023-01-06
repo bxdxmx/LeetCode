@@ -479,11 +479,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "503. Next Greater Element I
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "556. Next Greater Element III", "556. Next Greater Element III\556. Next Greater Element III.csproj", "{87B10215-CE19-4D2E-B1B9-D5675D7BD854}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1376. Time Needed to Inform All Employees", "1376. Time Needed to Inform All Employees\1376. Time Needed to Inform All Employees.csproj", "{19D08DD9-CB0A-412D-9E23-71C9CFB3C56D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1376. Time Needed to Inform All Employees", "1376. Time Needed to Inform All Employees\1376. Time Needed to Inform All Employees.csproj", "{19D08DD9-CB0A-412D-9E23-71C9CFB3C56D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "452. Minimum Number of Arrows to Burst Balloons", "452. Minimum Number of Arrows to Burst Balloons\452. Minimum Number of Arrows to Burst Balloons.csproj", "{32272B34-9534-4BAE-9E86-6EFDB71B28A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "452. Minimum Number of Arrows to Burst Balloons", "452. Minimum Number of Arrows to Burst Balloons\452. Minimum Number of Arrows to Burst Balloons.csproj", "{32272B34-9534-4BAE-9E86-6EFDB71B28A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "49. Group Anagrams", "49. Group Anagrams\49. Group Anagrams.csproj", "{0A73A34E-9A31-4902-8D63-FDF6A798EF36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "49. Group Anagrams", "49. Group Anagrams\49. Group Anagrams.csproj", "{0A73A34E-9A31-4902-8D63-FDF6A798EF36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1833. Maximum Ice Cream Bars", "1833. Maximum Ice Cream Bars\1833. Maximum Ice Cream Bars.csproj", "{50F69964-D760-4624-8D9F-D7CADD9A0F30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "713. Subarray Product Less Than K", "713. Subarray Product Less Than K\713. Subarray Product Less Than K.csproj", "{8A0955A5-6740-49ED-B746-03BB0D684FFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1455,6 +1459,14 @@ Global
 		{0A73A34E-9A31-4902-8D63-FDF6A798EF36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A73A34E-9A31-4902-8D63-FDF6A798EF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A73A34E-9A31-4902-8D63-FDF6A798EF36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50F69964-D760-4624-8D9F-D7CADD9A0F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F69964-D760-4624-8D9F-D7CADD9A0F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F69964-D760-4624-8D9F-D7CADD9A0F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F69964-D760-4624-8D9F-D7CADD9A0F30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A0955A5-6740-49ED-B746-03BB0D684FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A0955A5-6740-49ED-B746-03BB0D684FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A0955A5-6740-49ED-B746-03BB0D684FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A0955A5-6740-49ED-B746-03BB0D684FFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
