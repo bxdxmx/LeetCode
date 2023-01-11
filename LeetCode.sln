@@ -515,7 +515,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "61. Rotate List", "61. Rota
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "173. Binary Search Tree Iterator", "173. Binary Search Tree Iterator\173. Binary Search Tree Iterator.csproj", "{1FE87088-BD8B-4C01-8E77-3DBC33AA668C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100. Same Tree", "100. Same Tree\100. Same Tree.csproj", "{6270679F-E7F8-4A0D-9004-2139F10A9C5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "100. Same Tree", "100. Same Tree\100. Same Tree.csproj", "{6270679F-E7F8-4A0D-9004-2139F10A9C5C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "860. Lemonade Change", "860. Lemonade Change\860. Lemonade Change.csproj", "{F35355F0-A98C-45BD-B292-CF9AF80D427D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1845. Seat Reservation Manager", "1845. Seat Reservation Manager\1845. Seat Reservation Manager.csproj", "{B8EE1710-5C4E-4D92-9A04-AF1AD18FEDFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "155. Min Stack", "155. Min Stack\155. Min Stack.csproj", "{61E695D9-6068-4863-8F49-D36C58D07DE5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "341. Flatten Nested List Iterator", "341. Flatten Nested List Iterator\341. Flatten Nested List Iterator.csproj", "{D6FDCEAC-B62A-460D-80BC-B9446449C2D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1443. Minimum Time to Collect All Apples in a Tree", "1443. Minimum Time to Collect All Apples in a Tree\1443. Minimum Time to Collect All Apples in a Tree.csproj", "{A2E4194F-8E4D-424D-B6EA-EE1C0110B533}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1551,6 +1561,26 @@ Global
 		{6270679F-E7F8-4A0D-9004-2139F10A9C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6270679F-E7F8-4A0D-9004-2139F10A9C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6270679F-E7F8-4A0D-9004-2139F10A9C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F35355F0-A98C-45BD-B292-CF9AF80D427D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35355F0-A98C-45BD-B292-CF9AF80D427D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35355F0-A98C-45BD-B292-CF9AF80D427D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35355F0-A98C-45BD-B292-CF9AF80D427D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8EE1710-5C4E-4D92-9A04-AF1AD18FEDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EE1710-5C4E-4D92-9A04-AF1AD18FEDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EE1710-5C4E-4D92-9A04-AF1AD18FEDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EE1710-5C4E-4D92-9A04-AF1AD18FEDFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61E695D9-6068-4863-8F49-D36C58D07DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E695D9-6068-4863-8F49-D36C58D07DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E695D9-6068-4863-8F49-D36C58D07DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E695D9-6068-4863-8F49-D36C58D07DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6FDCEAC-B62A-460D-80BC-B9446449C2D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6FDCEAC-B62A-460D-80BC-B9446449C2D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6FDCEAC-B62A-460D-80BC-B9446449C2D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6FDCEAC-B62A-460D-80BC-B9446449C2D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2E4194F-8E4D-424D-B6EA-EE1C0110B533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E4194F-8E4D-424D-B6EA-EE1C0110B533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E4194F-8E4D-424D-B6EA-EE1C0110B533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E4194F-8E4D-424D-B6EA-EE1C0110B533}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
