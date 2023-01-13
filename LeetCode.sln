@@ -529,11 +529,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1443. Minimum Time to Colle
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "108. Convert Sorted Array to Binary Search Tree", "108. Convert Sorted Array to Binary Search Tree\108. Convert Sorted Array to Binary Search Tree.csproj", "{032B6541-BF32-434B-85DE-F2C5855B7D94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1797. Design Authentication Manager", "1797. Design Authentication Manager\1797. Design Authentication Manager.csproj", "{E20C48B0-4543-42E0-8542-79F31030508A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1797. Design Authentication Manager", "1797. Design Authentication Manager\1797. Design Authentication Manager.csproj", "{E20C48B0-4543-42E0-8542-79F31030508A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "707. Design Linked List", "707. Design Linked List\707. Design Linked List.csproj", "{E4F5D8AD-1418-4EEB-B280-79755D3C6797}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "707. Design Linked List", "707. Design Linked List\707. Design Linked List.csproj", "{E4F5D8AD-1418-4EEB-B280-79755D3C6797}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1519. Number of Nodes in the Sub-Tree With the Same Label", "1519. Number of Nodes in the Sub-Tree With the Same Label\1519. Number of Nodes in the Sub-Tree With the Same Label.csproj", "{76DBBAA1-F3CE-40B3-A5E1-A5D1E3F02A9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1519. Number of Nodes in the Sub-Tree With the Same Label", "1519. Number of Nodes in the Sub-Tree With the Same Label\1519. Number of Nodes in the Sub-Tree With the Same Label.csproj", "{76DBBAA1-F3CE-40B3-A5E1-A5D1E3F02A9D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "380. Insert Delete GetRandom O(1)", "380. Insert Delete GetRandom O(1)\380. Insert Delete GetRandom O(1).csproj", "{64AB5B4F-5FE7-4D9F-952F-57EAE42E8CC9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "622. Design Circular Queue", "622. Design Circular Queue\622. Design Circular Queue.csproj", "{6210568A-B352-4649-A9DE-24A1AB1B08EA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "729. My Calendar I", "729. My Calendar I\729. My Calendar I.csproj", "{B023FE22-7848-4578-8A83-92F24C6141A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2246. Longest Path With Different Adjacent Characters", "2246. Longest Path With Different Adjacent Characters\2246. Longest Path With Different Adjacent Characters.csproj", "{08D75B66-01CC-430D-96B9-BB4647203040}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1605,6 +1613,22 @@ Global
 		{76DBBAA1-F3CE-40B3-A5E1-A5D1E3F02A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76DBBAA1-F3CE-40B3-A5E1-A5D1E3F02A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76DBBAA1-F3CE-40B3-A5E1-A5D1E3F02A9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64AB5B4F-5FE7-4D9F-952F-57EAE42E8CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64AB5B4F-5FE7-4D9F-952F-57EAE42E8CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64AB5B4F-5FE7-4D9F-952F-57EAE42E8CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64AB5B4F-5FE7-4D9F-952F-57EAE42E8CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6210568A-B352-4649-A9DE-24A1AB1B08EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6210568A-B352-4649-A9DE-24A1AB1B08EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6210568A-B352-4649-A9DE-24A1AB1B08EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6210568A-B352-4649-A9DE-24A1AB1B08EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B023FE22-7848-4578-8A83-92F24C6141A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B023FE22-7848-4578-8A83-92F24C6141A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B023FE22-7848-4578-8A83-92F24C6141A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B023FE22-7848-4578-8A83-92F24C6141A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08D75B66-01CC-430D-96B9-BB4647203040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08D75B66-01CC-430D-96B9-BB4647203040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08D75B66-01CC-430D-96B9-BB4647203040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08D75B66-01CC-430D-96B9-BB4647203040}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

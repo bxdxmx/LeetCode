@@ -15,7 +15,14 @@
 
     public void Renew(string tokenId, int currentTime)
     {
-        if( sessions.TryGetValue(tokenId, out int value) && value <= currentTime ) 
+        if (sessions.ContainsKey(tokenId))
+        {
+            if (sessions[tokenId] <= currentTime)
+            {
+                return;
+            }
+        }
+        else
         {
             return;
         }
