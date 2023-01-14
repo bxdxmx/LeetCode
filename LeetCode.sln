@@ -541,7 +541,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "622. Design Circular Queue"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "729. My Calendar I", "729. My Calendar I\729. My Calendar I.csproj", "{B023FE22-7848-4578-8A83-92F24C6141A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2246. Longest Path With Different Adjacent Characters", "2246. Longest Path With Different Adjacent Characters\2246. Longest Path With Different Adjacent Characters.csproj", "{08D75B66-01CC-430D-96B9-BB4647203040}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2246. Longest Path With Different Adjacent Characters", "2246. Longest Path With Different Adjacent Characters\2246. Longest Path With Different Adjacent Characters.csproj", "{08D75B66-01CC-430D-96B9-BB4647203040}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1061. Lexicographically Smallest Equivalent String", "1061. Lexicographically Smallest Equivalent String\1061. Lexicographically Smallest Equivalent String.csproj", "{74E1E7ED-4A61-4249-98CB-BABFDDD78C70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1629,6 +1631,10 @@ Global
 		{08D75B66-01CC-430D-96B9-BB4647203040}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08D75B66-01CC-430D-96B9-BB4647203040}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08D75B66-01CC-430D-96B9-BB4647203040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E1E7ED-4A61-4249-98CB-BABFDDD78C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E1E7ED-4A61-4249-98CB-BABFDDD78C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E1E7ED-4A61-4249-98CB-BABFDDD78C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E1E7ED-4A61-4249-98CB-BABFDDD78C70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
