@@ -38,12 +38,12 @@
 
     public int Front()
     {
-        return array[head];
+        return IsEmpty() ? -1 : array[head];
     }
 
     public int Rear()
     {
-        return array[(tail - 1 + n) % n];
+        return IsEmpty() ? -1 : array[(tail - 1 + n) % n];
     }
 
     public bool IsEmpty()

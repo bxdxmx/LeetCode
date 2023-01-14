@@ -1,12 +1,25 @@
 ﻿var r = new RandomizedSet();
 
-r.Insert(1);
+r.Insert(3);
+r.Insert(-2);
 r.Remove(2);
-r.Insert(2);
+r.Insert(1);
+r.Insert(-3);
+r.Insert(-2);
+r.Remove(-2);
+r.Remove(3);
+r.Insert(-1);
+r.Remove(-3);
+r.Insert(1);
+r.Insert(-2);
+r.Insert(-2);
+r.Insert(-2);
+r.Insert(1);
 r.GetRandom();
-r.Remove(1);
-r.Insert(2);
-r.GetRandom();
+r.Insert(-2);
+r.Remove(0);
+r.Insert(-3);
+r.Insert(1);
 
 public class RandomizedSet
 {
@@ -50,10 +63,12 @@ public class RandomizedSet
         {
             int removeIndex = d[val];
             d.Remove(val);
-            d[l[^1]] = removeIndex;
+            if (val != l[count-1])
+            {
+                d[l[count-1]] = removeIndex;
+                (l[removeIndex], l[count - 1]) = (l[count - 1], l[removeIndex]);
+            }
 
-            (l[removeIndex], l[^1]) = (l[^1], l[removeIndex]);
-            
             count--;
         }
 
