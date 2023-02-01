@@ -557,9 +557,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "57. Insert Interval", "57. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "926. Flip String to Monotone Increasing", "926. Flip String to Monotone Increasing\926. Flip String to Monotone Increasing.csproj", "{4C5D289E-AA3B-4306-A039-71FBED9AFCB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6337. Count Distinct Numbers on Board", "6337. Count Distinct Numbers on Board\6337. Count Distinct Numbers on Board.csproj", "{E3C142A6-1236-4E8A-BA1C-FFC3976327CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6337. Count Distinct Numbers on Board", "6337. Count Distinct Numbers on Board\6337. Count Distinct Numbers on Board.csproj", "{E3C142A6-1236-4E8A-BA1C-FFC3976327CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6338. Count Collisions of Monkeys on a Polygon", "6338. Count Collisions of Monkeys on a Polygon\6338. Count Collisions of Monkeys on a Polygon.csproj", "{3D45EA2D-E16F-473E-9466-34D3E1BF545D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6338. Count Collisions of Monkeys on a Polygon", "6338. Count Collisions of Monkeys on a Polygon\6338. Count Collisions of Monkeys on a Polygon.csproj", "{3D45EA2D-E16F-473E-9466-34D3E1BF545D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1071. Greatest Common Divisor of Strings", "1071. Greatest Common Divisor of Strings\1071. Greatest Common Divisor of Strings.csproj", "{6CE42B21-6FAD-40F7-8F68-84EDB2662B56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1683,6 +1685,10 @@ Global
 		{3D45EA2D-E16F-473E-9466-34D3E1BF545D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D45EA2D-E16F-473E-9466-34D3E1BF545D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D45EA2D-E16F-473E-9466-34D3E1BF545D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CE42B21-6FAD-40F7-8F68-84EDB2662B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE42B21-6FAD-40F7-8F68-84EDB2662B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE42B21-6FAD-40F7-8F68-84EDB2662B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE42B21-6FAD-40F7-8F68-84EDB2662B56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
