@@ -561,7 +561,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6337. Count Distinct Number
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6338. Count Collisions of Monkeys on a Polygon", "6338. Count Collisions of Monkeys on a Polygon\6338. Count Collisions of Monkeys on a Polygon.csproj", "{3D45EA2D-E16F-473E-9466-34D3E1BF545D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1071. Greatest Common Divisor of Strings", "1071. Greatest Common Divisor of Strings\1071. Greatest Common Divisor of Strings.csproj", "{6CE42B21-6FAD-40F7-8F68-84EDB2662B56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1071. Greatest Common Divisor of Strings", "1071. Greatest Common Divisor of Strings\1071. Greatest Common Divisor of Strings.csproj", "{6CE42B21-6FAD-40F7-8F68-84EDB2662B56}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "6348. Take Gifts From the Richest Pile", "PythonApplication1\6348. Take Gifts From the Richest Pile.pyproj", "{97303395-0BD3-4BCB-9515-258BD7BB3041}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "6347. Count Vowel Strings in Ranges", "6347. Count Vowel Strings in Ranges\6347. Count Vowel Strings in Ranges.pyproj", "{BA713945-A3B9-4836-BEC4-842E1C8FAFA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1689,6 +1693,10 @@ Global
 		{6CE42B21-6FAD-40F7-8F68-84EDB2662B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CE42B21-6FAD-40F7-8F68-84EDB2662B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CE42B21-6FAD-40F7-8F68-84EDB2662B56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97303395-0BD3-4BCB-9515-258BD7BB3041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97303395-0BD3-4BCB-9515-258BD7BB3041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA713945-A3B9-4836-BEC4-842E1C8FAFA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA713945-A3B9-4836-BEC4-842E1C8FAFA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
