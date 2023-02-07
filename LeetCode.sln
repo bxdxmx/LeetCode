@@ -569,6 +569,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "6347. Count Vowel Strings i
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "1470. Shuffle the Array", "1470. Shuffle the Array\1470. Shuffle the Array.pyproj", "{7AB6D954-C758-4D35-8674-EF7BED6BEE4E}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "904. Fruit Into Baskets", "904. Fruit Into Baskets\904. Fruit Into Baskets.pyproj", "{43647D59-47F6-4BCC-818D-D63046065BBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1701,6 +1703,8 @@ Global
 		{BA713945-A3B9-4836-BEC4-842E1C8FAFA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AB6D954-C758-4D35-8674-EF7BED6BEE4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7AB6D954-C758-4D35-8674-EF7BED6BEE4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43647D59-47F6-4BCC-818D-D63046065BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43647D59-47F6-4BCC-818D-D63046065BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
